@@ -14,4 +14,4 @@ hingga pembuatan kalkulator interaktif.
 - Streamlit
 
 ## 📄 Artikel
-[Baca Artikel Lengkap](Artikel%20Building%20a%20Simple%20Application%20using%20Streamlit%20on%20Python.pdf)
+[Baca Artikel Lengkap](https://drive.google.com/file/d/1q98duo6LeYknrNlyvVK9c-1gf4eYhsH1/view?usp=sharing)
